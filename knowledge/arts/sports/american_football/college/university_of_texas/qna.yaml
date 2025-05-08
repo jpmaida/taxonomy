@@ -1,0 +1,86 @@
+version: 3
+domain: College Football History – Texas Longhorns
+created_by: jpmaida
+seed_examples:
+  - context: >
+      The Texas Longhorns football team represents The University of Texas at Austin in NCAA Division I FBS football. Established in 1893, the team has a storied history with a record of 953–392–33 (.704). They have claimed four national championships (1963, 1969, 1970, 2005) and have appeared in two College Football Playoffs (2023, 2024). The Longhorns have secured 33 conference titles and have a bowl record of 31–26–2. Their home games are played at Darrell K Royal–Texas Memorial Stadium in Austin, Texas, which has a capacity of 100,119. The team has notable rivalries with Oklahoma, Texas A&M, and others. Prominent players include Heisman Trophy winners Earl Campbell (1977) and Ricky Williams (1998). As of the 2025 season, the Longhorns compete in the Southeastern Conference (SEC) under head coach Steve Sarkisian.
+    questions_and_answers:
+      - question: When was the Texas Longhorns football team established, and what is their overall record?
+        answer: >
+          The Texas Longhorns football team was established in 1893. Over the years, they have built a strong football program with an overall record of 953 wins, 392 losses, and 33 ties, resulting in a winning percentage of .704.
+      - question: How many national championships has the Texas Longhorns football team claimed, and in which years?
+        answer: >
+          The Texas Longhorns have claimed four national championships in their history. These championships were won in the years 1963, 1969, 1970, and 2005.
+      - question: Who are the Heisman Trophy winners from the Texas Longhorns football team?
+        answer: >
+          The Texas Longhorns have produced two Heisman Trophy winners. Earl Campbell won the prestigious award in 1977, and Ricky Williams received it in 1998.
+      - question: What is the capacity of the Texas Longhorns' home stadium, and where is it located?
+        answer: >
+          The Texas Longhorns play their home games at Darrell K Royal–Texas Memorial Stadium, which is located in Austin, Texas. The stadium has a seating capacity of 100,119.
+      - question: Which conference does the Texas Longhorns football team currently compete in, and who is their head coach?
+        answer: >
+          As of the 2025 season, the Texas Longhorns football team competes in the Southeastern Conference (SEC). The team is led by head coach Steve Sarkisian.
+  - context: The Texas Longhorns football program has had a significant coaching legacy, with Darrell K Royal standing out as the most successful head coach in team history. Royal served from 1957 to 1976, amassing a 167–47–5 record. Under his leadership, the Longhorns won three national championships and eleven Southwest Conference titles. Royal is credited with popularizing the wishbone offense, which revolutionized college football. The team’s home stadium was renamed Darrell K Royal–Texas Memorial Stadium in his honor. Other notable coaches include Mack Brown, who led the team to a national championship in 2005, and Fred Akers, who coached during two Cotton Bowl appearances.
+    questions_and_answers:
+      - question: Who is the most successful head coach in Texas Longhorns football history?
+        answer: >
+          Darrell K Royal is considered the most successful head coach in Texas Longhorns football history. He coached the team from 1957 to 1976 and compiled a record of 167 wins, 47 losses, and 5 ties.
+      - question: What offensive strategy did Darrell K Royal help popularize?
+        answer: >
+          Darrell K Royal helped popularize the wishbone offense, a formation that became highly influential in college football and contributed to Texas's success during his tenure.
+      - question: What honors were given to Darrell K Royal for his contributions to Texas football?
+        answer: >
+          In honor of his contributions, the team’s stadium was renamed Darrell K Royal–Texas Memorial Stadium. He is also remembered for winning three national championships.
+      - question: Which coach led Texas to the 2005 national championship?
+        answer: >
+          Mack Brown was the head coach who led the Texas Longhorns to the 2005 national championship, defeating USC in the Rose Bowl.
+  - context: The Texas Longhorns football team is known for its historic rivalries, especially with the Oklahoma Sooners and the Texas A&M Aggies. The Red River Rivalry against Oklahoma is played annually at the Cotton Bowl in Dallas during the State Fair of Texas and is considered one of college football’s most intense matchups. Another historic rivalry was with Texas A&M, last played regularly in 2011, though it’s expected to resume with conference realignment. Traditions include the “Hook ‘em Horns” hand sign, Bevo the live longhorn steer mascot, and the “Eyes of Texas” school song, all integral to game day experiences and team identity.
+    questions_and_answers:
+      - question: What is the Red River Rivalry and who are the participants?
+        answer: >
+          The Red River Rivalry is an annual college football game between the Texas Longhorns and the Oklahoma Sooners, played at the Cotton Bowl in Dallas during the State Fair of Texas.
+      - question: What is the significance of the “Hook ‘em Horns” gesture?
+        answer: >
+          The “Hook ‘em Horns” gesture is a hand sign used by Texas Longhorns fans to show support for the team. It mimics the shape of a longhorn steer’s head and has become an iconic tradition.
+      - question: Who is Bevo and what is his role in Texas football?
+        answer: >
+          Bevo is the live longhorn steer mascot of the Texas Longhorns football team. He appears at games and represents school pride and tradition.
+      - question: Why did the annual rivalry with Texas A&M stop, and will it return?
+        answerr: >
+          The annual rivalry with Texas A&M ended in 2011 due to conference realignment, but it is expected to resume as both teams are now part of the SEC.
+  - context:  The Texas Longhorns play their home games at Darrell K Royal–Texas Memorial Stadium, one of the largest stadiums in college football with a capacity of over 100,000. The stadium has undergone several renovations, including updates to seating, video boards, and amenities to enhance fan experience. The Texas football fanbase is known for its passionate support and rich game day traditions. The “Longhorn Band” performs during games, and fans sing “The Eyes of Texas” after each contest. Tailgating, burnt orange attire, and alumni participation all contribute to the vibrant atmosphere surrounding Texas football.
+    questions_and_answers:
+      - question: What is the seating capacity of Darrell K Royal–Texas Memorial Stadium?
+        answer: >
+          Darrell K Royal–Texas Memorial Stadium has a seating capacity of over 100,000, making it one of the largest stadiums in college football.
+      - question: What are some traditions associated with Texas Longhorns football games?
+        answer: >
+          Traditions include the Longhorn Band performances, fans singing “The Eyes of Texas,” and widespread tailgating. Fans also wear burnt orange and display the “Hook ‘em Horns” hand sign.
+      - question: How does the Texas Longhorns fan base contribute to the team’s culture?
+        answer: >
+          The Texas Longhorns fan base is known for its passionate support, strong alumni involvement, and game-day enthusiasm, all of which create a dynamic and intimidating home environment.
+      - question: What role does the Longhorn Band play on game day?
+        answer: >
+          The Longhorn Band plays a key role in creating a festive atmosphere by performing before, during, and after games, energizing the crowd and supporting the team.
+  - context:  The Texas Longhorns have a long conference history, having competed in the Southwest Conference (SWC) until 1996, the Big 12 Conference from 1996 to 2023, and joining the Southeastern Conference (SEC) in 2024. In the SWC, Texas was dominant, winning 27 titles. They then won three Big 12 titles, including under Mack Brown. The move to the SEC placed Texas among powerhouse programs like Alabama and Georgia, enhancing both competition and visibility. The realignment was driven by financial considerations, recruiting advantages, and the desire to remain at the forefront of college athletics.
+    questions_and_answers:
+      - question: Which conferences has the Texas Longhorns football team been a part of?
+        answer: >
+          Texas has been a member of the Southwest Conference (until 1996), the Big 12 Conference (1996–2023), and joined the Southeastern Conference (SEC) in 2024.
+      - question: Why did the Texas Longhorns move to the SEC?
+        answer: >
+          The move to the SEC was driven by financial benefits, increased national exposure, recruiting opportunities, and alignment with other elite programs.
+      - question: How many conference titles has Texas won in the SWC and Big 12?
+        answer: >
+          Texas won 27 conference titles in the Southwest Conference and 3 in the Big 12, demonstrating their dominance over decades of competition.
+      - question: What impact is expected from Texas joining the SEC?
+        answer: >
+          Joining the SEC is expected to elevate the program's competitiveness, revenue, and recruiting strength due to association with top-tier teams and broader media exposure.
+document_outline: >
+  This document provides an overview of the Texas Longhorns football program, including its history, championship legacy, notable coaches and players, stadium, rivalries, traditions, fan culture, and recent conference realignment. The team represents the University of Texas at Austin and is one of the most successful and storied programs in college football.
+document:
+  repo: https://github.com/jpmaida/taxonomy.git
+  commit: 5083e07869d4f32aeb0b417b56cba42eeea54324
+  patterns:
+    - Texas_Longhorns_football.md
+
