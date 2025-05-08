@@ -79,8 +79,8 @@ seed_examples:
 document_outline: >
   This document provides an overview of the Texas Longhorns football program, including its history, championship legacy, notable coaches and players, stadium, rivalries, traditions, fan culture, and recent conference realignment. The team represents the University of Texas at Austin and is one of the most successful and storied programs in college football.
 document:
-  repo: https://github.com/jpmaida/taxonomy.git
-  commit: 5083e07869d4f32aeb0b417b56cba42eeea54324
+  repo: https://github.com/jpmaida/instructlab_knowledge.git
+  commit: 5582d74c35d2c283dba8669bf5bb5107e9e78769
   patterns:
     - Texas_Longhorns_football.md
 
